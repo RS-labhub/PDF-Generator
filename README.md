@@ -1,4 +1,4 @@
-<h1 align="center" style="color: blue;"> PDF-Generator </h1>
+<h1 align="center"> PDF-Generator </h1>
 
 <p align="center"> WORK ON PROGRESS </p>
 <p align="center"> Thanks to my college for giving me ultimate surprises 🙂 </p>
