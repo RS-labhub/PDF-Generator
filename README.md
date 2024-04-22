@@ -2,11 +2,10 @@
 
 <p align="center"> UI not ready, backend full functional. But, you can still use the files uploaded to convert html pages into pdf.</p>
 
-<h3>HTML to PDF Generator</h3>
+<h3 align="center">HTML to PDF Generator</h3>
 <p align="center"> Looking for a tool that can convert htmp pages into PDF. Stop searching, try it!</p>
 <br>
 <p align="center">PS: Thanks to my college for giving me ultimate surprises 🙂 </p>
-<hr>
 <br><br><br>
 
 <p align="center"> Made with ❣️ and <a href="https://www.browserless.io/">browerserless.io<a> </p>
